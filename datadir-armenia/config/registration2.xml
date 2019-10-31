@@ -1,11 +1,43 @@
 <registration>
-  <registry/>
+  <registry>
+    <hostingOrganisation>
+      <key>64795dcb-ad74-41b3-95e5-cc52ba754776</key>
+      <name>GBIF.no</name>
+      <password>2+dLYu+g9ZA=</password>
+      <alias>GBIF.no</alias>
+      <nodeKey>4f829580-180d-46a9-9c87-ed8ec959b545</nodeKey>
+      <nodeName>GBIF Norway</nodeName>
+      <canHost>true</canHost>
+      <agencyAccountPrimary>false</agencyAccountPrimary>
+    </hostingOrganisation>
+    <ipt>
+      <key>594d44f8-bbd7-4072-99e5-75cbad9d6ff8</key>
+      <description>For the students participating in the Biodata training in Armenia</description>
+      <name>Biodata Armenia</name>
+      <primaryContactType>technical</primaryContactType>
+      <primaryContactName>Helpdesk</primaryContactName>
+      <primaryContactEmail>helpdesk@gbif.no</primaryContactEmail>
+      <organisationKey>64795dcb-ad74-41b3-95e5-cc52ba754776</organisationKey>
+      <created>2019-10-31 13:14:36.848 UTC</created>
+      <wsPassword>1/JxA5VJzFvvVfvPg8cQ8Q==</wsPassword>
+    </ipt>
+  </registry>
   <organisation>
     <key>625a5522-1886-4998-be46-52c66dd566c9</key>
     <description>Installed by default, used to indicate resource is not published by any organisation</description>
     <name>No organisation</name>
     <password>PsQfBTu3GJfy00mWe2MyOg==</password>
     <alias>No organisation</alias>
+    <canHost>true</canHost>
+    <agencyAccountPrimary>false</agencyAccountPrimary>
+  </organisation>
+  <organisation>
+    <key>64795dcb-ad74-41b3-95e5-cc52ba754776</key>
+    <name>GBIF.no</name>
+    <password>2+dLYu+g9ZA=</password>
+    <alias>GBIF.no</alias>
+    <nodeKey>4f829580-180d-46a9-9c87-ed8ec959b545</nodeKey>
+    <nodeName>GBIF Norway</nodeName>
     <canHost>true</canHost>
     <agencyAccountPrimary>false</agencyAccountPrimary>
   </organisation>
