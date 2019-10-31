@@ -1,0 +1,21 @@
+version: '3'
+
+services:
+  ipt:
+    restart: always
+    build: .
+    expose:
+      - '8080'
+    volumes:
+      - ./datadir-tajikistan:/srv/datadir-tajikistan
+      - ./datadir-belarus:/srv/datadir-belarus
+      - ./datadir-armenia:/srv/datadir-armenia
+      - ./datadir-ukraine:/srv/datadir-ukraine
+    environment:
+      - VIRTUAL_HOST=ipt-biodata.gbif.no
+      - LETSENCRYPT_HOST=ipt-biodata.gbif.no
+
+networks:
+  default:
+    external:
+      name: nginx-proxy
