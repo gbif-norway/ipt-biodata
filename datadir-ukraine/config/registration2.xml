@@ -2,7 +2,10 @@
   <registry>
     <hostingOrganisation>
       <key>64795dcb-ad74-41b3-95e5-cc52ba754776</key>
+      <description>The Norwegian participant node in the Global Biodiversity Information Facility, GBIF.
+Our main task is to make primary data on biological diversity from the Norwegian collections and observation databases freely available and to coordinate and support GBIF-related activities and data use in Norway.</description>
       <name>GBIF.no</name>
+      <homepageURL>[https://gbif.no/]</homepageURL>
       <password>2+dLYu+g9ZA=</password>
       <alias>GBIF.no</alias>
       <nodeKey>4f829580-180d-46a9-9c87-ed8ec959b545</nodeKey>
@@ -33,7 +36,10 @@
   </organisation>
   <organisation>
     <key>64795dcb-ad74-41b3-95e5-cc52ba754776</key>
+    <description>The Norwegian participant node in the Global Biodiversity Information Facility, GBIF.
+Our main task is to make primary data on biological diversity from the Norwegian collections and observation databases freely available and to coordinate and support GBIF-related activities and data use in Norway.</description>
     <name>GBIF.no</name>
+    <homepageURL>[https://gbif.no/]</homepageURL>
     <password>2+dLYu+g9ZA=</password>
     <alias>GBIF.no</alias>
     <nodeKey>4f829580-180d-46a9-9c87-ed8ec959b545</nodeKey>

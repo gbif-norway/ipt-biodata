@@ -1,4 +1,5 @@
 datadir-*/logs
 datadir-*/tmp
+datadir-*/resources
 datadir-*/config/.vocabularies
 datadir-*/config/users.xml

@@ -2,7 +2,10 @@
   <registry>
     <hostingOrganisation>
       <key>64795dcb-ad74-41b3-95e5-cc52ba754776</key>
+      <description>The Norwegian participant node in the Global Biodiversity Information Facility, GBIF.
+Our main task is to make primary data on biological diversity from the Norwegian collections and observation databases freely available and to coordinate and support GBIF-related activities and data use in Norway.</description>
       <name>GBIF.no</name>
+      <homepageURL>[https://gbif.no/]</homepageURL>
       <password>2+dLYu+g9ZA=</password>
       <alias>GBIF.no</alias>
       <nodeKey>4f829580-180d-46a9-9c87-ed8ec959b545</nodeKey>
@@ -23,6 +26,25 @@
     </ipt>
   </registry>
   <organisation>
+    <key>0a16da09-7719-40de-8d4f-56a15ed52fb6</key>
+    <description>Test Organization for IPT
+X</description>
+    <name>Test Organization #1</name>
+    <homepageURL>[https://www.gbif.org/]</homepageURL>
+    <primaryContactType>administrative</primaryContactType>
+    <primaryContactName>GBIF Helpdesk</primaryContactName>
+    <primaryContactAddress>Universitetsparken 15</primaryContactAddress>
+    <primaryContactEmail>helpdesk@gbif.org</primaryContactEmail>
+    <primaryContactPhone>+45 35 32 14 70</primaryContactPhone>
+    <password>PsQfBTu3GJfy00mWe2MyOg==</password>
+    <alias>Test Organization #1</alias>
+    <nodeKey>02c40d2a-1cba-4633-90b7-e36e5e97aba8</nodeKey>
+    <nodeName>GBIF Secretariat</nodeName>
+    <canHost>true</canHost>
+    <agencyAccountPrimary>false</agencyAccountPrimary>
+    <agencyAccountPassword>V0T1cKcsb2o=</agencyAccountPassword>
+  </organisation>
+  <organisation>
     <key>625a5522-1886-4998-be46-52c66dd566c9</key>
     <description>Installed by default, used to indicate resource is not published by any organisation</description>
     <name>No organisation</name>
@@ -33,7 +55,10 @@
   </organisation>
   <organisation>
     <key>64795dcb-ad74-41b3-95e5-cc52ba754776</key>
+    <description>The Norwegian participant node in the Global Biodiversity Information Facility, GBIF.
+Our main task is to make primary data on biological diversity from the Norwegian collections and observation databases freely available and to coordinate and support GBIF-related activities and data use in Norway.</description>
     <name>GBIF.no</name>
+    <homepageURL>[https://gbif.no/]</homepageURL>
     <password>2+dLYu+g9ZA=</password>
     <alias>GBIF.no</alias>
     <nodeKey>4f829580-180d-46a9-9c87-ed8ec959b545</nodeKey>
