@@ -1,6 +1,6 @@
 FROM tomcat:8.5-jre8-alpine
 
-ENV IPT_VERSION=2.4.0
+ENV IPT_VERSION=2.5.7
 
 RUN apk add --no-cache \
     curl \
